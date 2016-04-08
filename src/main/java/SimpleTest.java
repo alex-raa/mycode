@@ -48,7 +48,7 @@ public class SimpleTest {
     @Test(groups={"unittest"})
     public void testEquals()
     {
-        assertEquals(fValue1, fValue3);
+        assertEquals(fValue1, fValue2);
         System.out.println();
     }
 
